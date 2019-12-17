@@ -1,0 +1,295 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "id":10414764,
+            "order_number":"S-01279165",
+            "sos":"N",
+            "sos_new":[
+               "N",
+               "North side"
+            ],
+          -  "on_street":"PEARSON PLACE",
+           - "from_street":"  27 STREET",
+        - "to_street":"SKILLMAN AVENUE",
+            "smo_code":"PS-11D",
+          -  "sign_description":"STAR (SYMBOL) AVO POLICE DEPARTMENT <-> ",
+            "size_description":"018 X 018",
+            "facing_direction_type":null,
+            "arrow_points":null,
+            "distance_from_intersection":555,
+            "smo_category":"parking",
+            "smo_subtype":"Authorized Parking",
+            "last_work_date":"2015-01-05",
+            "notes":""
+         },
+        - "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.9427493949416",
+               "40.7430390948989"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":10414795,
+            "order_number":"S-01279169",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"PEARSON PLACE",
+            "from_street":"DAVIS COURT",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-11D",
+            "sign_description":"STAR (SYMBOL) AVO POLICE DEPARTMENT <-> ",
+            "size_description":"018 X 018",
+            "facing_direction_type":null,
+            "arrow_points":null,
+            "distance_from_intersection":42,
+            "smo_category":"parking",
+            "smo_subtype":"Authorized Parking",
+            "last_work_date":null,
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94269082587466",
+               "40.74296168546785"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":10414763,
+            "order_number":"S-01279165",
+            "sos":"N",
+            "sos_new":[
+               "N",
+               "North side"
+            ],
+            "on_street":"PEARSON PLACE",
+            "from_street":"  27 STREET",
+            "to_street":"SKILLMAN AVENUE",
+            "smo_code":"PS-11D",
+            "sign_description":"STAR (SYMBOL) AVO POLICE DEPARTMENT <-> ",
+            "size_description":"018 X 018",
+            "facing_direction_type":null,
+            "arrow_points":null,
+            "distance_from_intersection":418,
+            "smo_category":"parking",
+            "smo_subtype":"Authorized Parking",
+            "last_work_date":"2015-01-05",
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94251917952404",
+               "40.742706318172"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":10414796,
+            "order_number":"S-01279169",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"PEARSON PLACE",
+            "from_street":"DAVIS COURT",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-11DA",
+            "sign_description":"STAR (SYMBOL) AVO POLICE DEPARTMENT --> ",
+            "size_description":"018 X 018",
+            "facing_direction_type":null,
+            "arrow_points":"West",
+            "distance_from_intersection":170,
+            "smo_category":"parking",
+            "smo_subtype":"Authorized Parking",
+            "last_work_date":"2017-06-14",
+            "notes":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94241500461177",
+               "40.74264645598684"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":166644,
+            "order_number":"S-275229",
+            "sos":"E",
+            "sos_new":[
+               "E",
+               "East side"
+            ],
+            "on_street":"  27 STREET",
+            "from_street":"  49 AVENUE",
+            "to_street":"  47 AVENUE",
+            "smo_code":"SP-10B",
+            "sign_description":"NO STANDING ANYTIME <--->",
+            "size_description":"018 X 012",
+            "facing_direction_type":null,
+            "arrow_points":null,
+            "distance_from_intersection":706,
+            "smo_category":"parking",
+            "smo_subtype":"No Standing",
+            "last_work_date":"2011-12-19",
+            "notes":null
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94093881995231",
+               "40.74287352278858"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":11021004,
+            "order_number":"S-01338679",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"AUSTELL PLACE",
+            "from_street":"SKILLMAN AVENUE",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-15GA",
+            "sign_description":"NO PARKING MONDAY-FRIDAY 8AM-6PM --> ",
+            "size_description":"018 X 012",
+            "facing_direction_type":null,
+            "arrow_points":"East",
+            "distance_from_intersection":390,
+            "smo_category":"parking",
+            "smo_subtype":"No Parking (Non-ASP)",
+            "last_work_date":"2018-12-24",
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94145871282723",
+               "40.74276544109561"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":11021002,
+            "order_number":"S-01338679",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"AUSTELL PLACE",
+            "from_street":"SKILLMAN AVENUE",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-15GA",
+            "sign_description":"NO PARKING MONDAY-FRIDAY 8AM-6PM --> ",
+            "size_description":"018 X 012",
+            "facing_direction_type":null,
+            "arrow_points":"East",
+            "distance_from_intersection":206,
+            "smo_category":"parking",
+            "smo_subtype":"No Parking (Non-ASP)",
+            "last_work_date":"2018-12-24",
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.9417664284594",
+               "40.74321297230557"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":11021003,
+            "order_number":"S-01338679",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"AUSTELL PLACE",
+            "from_street":"SKILLMAN AVENUE",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-15GA",
+            "sign_description":"NO PARKING MONDAY-FRIDAY 8AM-6PM --> ",
+            "size_description":"018 X 012",
+            "facing_direction_type":null,
+            "arrow_points":"West",
+            "distance_from_intersection":317,
+            "smo_category":"parking",
+            "smo_subtype":"No Parking (Non-ASP)",
+            "last_work_date":"2018-12-24",
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94158079516485",
+               "40.74294299434046"
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "id":11021005,
+            "order_number":"S-01338679",
+            "sos":"S",
+            "sos_new":[
+               "S",
+               "South side"
+            ],
+            "on_street":"AUSTELL PLACE",
+            "from_street":"SKILLMAN AVENUE",
+            "to_street":"  27 STREET",
+            "smo_code":"PS-15GA",
+            "sign_description":"NO PARKING MONDAY-FRIDAY 8AM-6PM --> ",
+            "size_description":"018 X 012",
+            "facing_direction_type":null,
+            "arrow_points":"West",
+            "distance_from_intersection":424,
+            "smo_category":"parking",
+            "smo_subtype":"No Parking (Non-ASP)",
+            "last_work_date":"2018-12-24",
+            "notes":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "-73.94140185278249",
+               "40.74268274501807"
+            ]
+         }
+      }
+   ],
+   "total":9
+}
+
