@@ -7,8 +7,14 @@ ParkMate was inspired by the inconvience every New Yorker faces when it comes to
 ParkMate will allow a user to sign into the app, and use their current location to pull data from the DOT’s street parking rules and regulations signs. The user will then be able to see which rules are in effect from the comfort of their car. The app will have notifications to alert you when its time to leave and the ability to save past parking spots (based on GPS) if you're ever in the area again. 
 
 ## Map Screen
+![gif](https://gph.is/g/4g1pBnq)
+
+## Notification Reminder Screen
 ![gif]()
 
-## Reminder to Move Car Screen
-![gif]()
+# Authors
 
+- **Krystal Campbell** - Sole Creator
+
+
+# Overview
